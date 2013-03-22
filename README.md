@@ -23,10 +23,12 @@ How to run
 -----------
 
 For usage instructions : 
-	./fms2deb
+
+    ./fms2deb
 	
 Sample use :
-    sudo ./fms2deb <full path of FlashMediaServer4.5_x64.tar> <buildNumber>
+
+    sudo ./fms2deb &lt;full path of FlashMediaServer4.5_x64.tar&gt; &lt;buildNumber&gt;
 
 
 Disclamer
