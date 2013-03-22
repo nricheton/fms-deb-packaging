@@ -28,7 +28,7 @@ For usage instructions :
 	
 Sample use :
 
-    sudo ./fms2deb &lt;full path of FlashMediaServer4.5_x64.tar&gt; &lt;buildNumber&gt;
+    sudo ./fms2deb <full path of FlashMediaServer4.5_x64.tar> <buildNumber>
 
 
 Disclamer
